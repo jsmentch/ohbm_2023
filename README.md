@@ -7,7 +7,7 @@ This repo contains the [poster PDF](mentch_ohbm2023_poster_v2.pdf) along with th
 Find us online:
 [Senseable Intelligence Group homepage](https://sensein.group/)
 
-[Jeff Mentch's homepage](jsmentch.github.io)
+[Jeff Mentch's homepage](http://jsmentch.github.io/)
 
 [Jian Li (Andrew)'s homepage](https://silencer1127.github.io/). Andrew developed the NASCAR method, check out his papers and the code if you would like to try it. It is written in Matlab and well documented, easy to use.
 
