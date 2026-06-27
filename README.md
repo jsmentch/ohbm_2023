@@ -2,6 +2,8 @@
 
 Thanks for visiting our poster and scanning the QR code!
 
+If you missed the live talk, you can view the pre-recorded talk [here](https://www.youtube.com/watch?v=ytMdd_XGCN4):
+
 This repo contains the [poster PDF](mentch_ohbm2023_poster_v2.pdf) along with the [presentation slides](OHBM_2023_talk_slides.pdf). Feel free to download them. If you have any questions, feel free to reach out to jsmentch@mit.edu
 
 Find us online:
